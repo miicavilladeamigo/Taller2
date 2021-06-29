@@ -1,0 +1,46 @@
+.menu{
+  background-color: #000204;
+}
+.logo{
+  width: 209px;
+  height: 69px;
+  margin-left: 16px;
+  margin-top: 10px;
+}
+h3{
+  color:#fff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  float: right;
+  margin-top: 40px;
+}
+.novedades{
+  margin-right: 1000px;
+}
+.festivales{
+  margin-top: -43px;
+  margin-right: 850px;
+}
+.opinion{
+  margin-right: 710px;
+  margin-top: -43px;
+}
+.entrevistas{
+  margin-top: -43px;
+  margin-right: 550px;
+}
+.recomendados{
+  margin-top: -43px;
+  margin-right: 350px;
+}
+.nosotros{
+  margin-top: -43px;
+  margin-right: 200px;
+}
+.buscar{
+  width: 28px;
+  height: 28px;
+  float: right;
+  margin-top: -43px;
+  margin-right: 100px;
+}

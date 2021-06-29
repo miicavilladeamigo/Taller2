@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url("menu.css");
+@import url("portada.css");
+@import url("lo-ultimo.css");
+
+
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-color: #000204;
+}
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: #fff;
+  margin-left: 27px;
+  font-size: 32px;
+}
+#destacado{
+  background-color: #000000;
+  color: #F4D03F;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
