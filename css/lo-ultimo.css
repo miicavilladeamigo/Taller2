@@ -1,0 +1,114 @@
+.linea{
+  color: #F4D03F;
+  width: 173px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+.contenedor-lo-ultimo{
+  position: relative;
+  margin-bottom: 20px;
+}
+.lo-ultimo{
+  margin-top: 90px;
+}
+.cobra{
+  margin-top: 27px;
+  margin-left: 27px;
+  display: block;
+}
+
+.destacado{
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 260px;
+}
+.text-cobra-kai{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+}
+
+.netflix{
+  float: right;
+  margin-right: 830px;
+  margin-top: -348px;
+}
+.destacado-netflix{
+  float: right;
+  margin-right: 940px;
+  margin-top: -110px;
+}
+.text-abajo-netflix{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-right: 860px;
+  margin-top: -50px;
+}
+.estrenos-cannes{
+  float: right;
+  margin-top: -348px;
+  margin-right: 560px;
+}
+.destacado-estrenos-cannes{
+  float: right;
+  margin-top: -110px;
+  margin-right: 670px;
+}
+.text-abajo-estrenos-cannes{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-right: 590px;
+  margin-top: -50px;
+}
+.the-witcher{
+  float: right;
+  margin-top: -348px;
+  margin-right: -500px;
+}
+.destacado-the-witcher{
+  float: right;
+  margin-top: -110px;
+  margin-right: -395px;
+}
+.text-abajo-the-witcher{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-top: -50px;
+  margin-right: -460px;
+}
+.peaky-blinders{
+  float: right;
+  margin-right: -770px;
+  margin-top: -348px;
+}
+.destacado-peaky-blinders{
+  float: right;
+  margin-top: -110px;
+  margin-right: -665px;
+}
+.text-peaky-blinders{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-top: -50px;
+  margin-right: -740px;
+}

@@ -1,0 +1,62 @@
+.ganadores{
+  margin-top: 97px;
+}
+.damien{
+  margin-top: 27px;
+ margin-left: 27px;
+}
+.globo1{
+  position: absolute;
+  left: 45px;
+  top: 600px;
+}
+.damien-texto{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 25px;
+  line-height: 20px;
+  margin-left: 35px;
+  margin-top: 16px;
+}
+.alejandro{
+  float: right;
+  margin-top: -443px;
+  margin-right: 485px;
+}
+.bafta{
+  position: absolute;
+  left: 510px;
+  top: 600px;
+}
+.texto-alejandro{
+  font-family: 'Asap', sans-serif;
+font-weight: 400;
+color: #fff;
+font-size: 25px;
+line-height: 20pt;
+margin-left: 493px;
+margin-top: -26px;
+}
+.guillermo{
+  float: right;
+margin-top: -443px;
+margin-right: 27px;
+}
+.gotham{
+  position: absolute;
+    float: right;
+    left: 970px;
+    top: 600px;
+}
+.guillermo-texto{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 25px;
+  line-height: 20pt;
+  float: right;
+  position: relative;
+  top: -26px;
+  right: 200px;
+}

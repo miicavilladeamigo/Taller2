@@ -1,0 +1,115 @@
+.nominados{
+   margin-left: 30px;
+   float: none;
+   margin-top: 500px;
+}
+.linea4{
+  color: #F4D03F;
+  width: 470px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.alfonso{
+  margin-top: 35px;
+  margin-left: 27px;
+}
+.destacado-alfonso{
+  margin-left: 27px;
+  margin-top: -40px;
+}
+.texto-alfonso{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20px;
+  margin-left: 27px;
+  margin-top: 20px;
+}
+.martin{
+  float: right;
+  margin-top: -310px;
+  margin-right: 833px;
+}
+.destacado-martin{
+  float: right;
+  margin-right: 920px;
+  margin-top: -70px;
+  }
+.texto-martin{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20pt;
+  margin-left: 27px;
+  float: right;
+  margin-right: 910px;
+  margin-top: -20px;
+}
+.esmerald{
+  float: right;
+  margin-top: -310px;
+  margin-right: 567px;
+}
+.destacado-esmerald{
+  float: right;
+  margin-right: 650px;
+  margin-top: -80px;
+}
+.texto-esmerald{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20pt;
+  margin-left: 27px;
+  float: right;
+  margin-top: -30px;
+  margin-right: 650px;
+}
+.katy{
+  float: right;
+  margin-top: -310px;
+  margin-right: 301px;
+}
+.destacado-katy{
+  float: right;
+  margin-right: 380px;
+  margin-top: -80px;
+  }
+.texto-katy{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -30px;
+  margin-right: 385px;
+}
+
+.sam{
+  float: right;
+  margin-top: -310px;
+  margin-right: 32px;
+}
+.destacado-sam{
+  float: right;
+  margin-right: 115px;
+  margin-top: -80px;
+}
+.texto-sam{
+    font-family: 'Asap', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 19px;
+    line-height: 20pt;
+    margin-left: 27px;
+    margin-top: 16px;
+    float: right;
+    margin-top: -30px;
+    margin-right: 140px;
+}

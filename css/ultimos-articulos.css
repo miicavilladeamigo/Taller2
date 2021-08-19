@@ -1,0 +1,117 @@
+.contenedor-ultimos{
+  position: relative;
+  top: -220px;
+}
+
+.linea3{
+  color: #F4D03F;
+  width: 330px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+.lgbt{
+  margin-top: 27px;
+  margin-left: 27px;
+}
+
+.text-lgbt{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+}
+
+.elite{
+float: right;
+margin-top: -351px;
+margin-right: 833px;
+}
+.destacado-elite{
+  float: right;
+  margin-right: 940px;
+  margin-top: -114px;
+}
+.text-elite{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-right: 842px;
+  margin-top: -52px;
+}
+
+.director{
+  float: right;
+  margin-top: -351px;
+  margin-right: 567px;
+}
+.destacado-director{
+  float: right;
+  margin-right: 680px;
+  margin-top: -114px;
+}
+.text-director{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -52px;
+  margin-right: 608px;
+}
+
+.rubias{
+  float: right;
+  margin-top: -351px;
+  margin-right: 301px;
+}
+.destacado-rubias{
+  float: right;
+  margin-right: 410px;
+  margin-top: -114px;
+}
+.text-rubias{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -52px;
+  margin-right: 338px;
+}
+
+.disney{
+  float: right;
+  margin-top: -351px;
+  margin-right: 32px;
+}
+.destacado-disney{
+  float: right;
+  margin-right: 135px;
+  margin-top: -114px;
+}
+.text-disney{
+    font-family: 'Asap', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 19px;
+    line-height: 20pt;
+    margin-left: 27px;
+    margin-top: 16px;
+    float: right;
+    margin-top: -52px;
+    margin-right: 78px;
+}

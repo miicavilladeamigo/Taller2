@@ -1,0 +1,525 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-color: #000204;
+}
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: #fff;
+  margin-left: 27px;
+  font-size: 32px;
+}
+
+.menu1{
+  background-color: #000204;
+
+}
+
+.dentroMenu{
+margin-left: 10px;
+}
+.logo1{
+  width: 209px;
+  height: 69px;
+  margin-left: 16px;
+  margin-top: 10px;
+}
+h3{
+  color:#fff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  float: right;
+  margin-top: 40px;
+}
+.novedades1{
+  margin-right: 930px;
+}
+.festivales1{
+  margin-top: -43px;
+  margin-right: 780px;
+}
+.opinion1{
+  margin-right: 630px;
+  margin-top: -43px;
+}
+.entrevistas1{
+  margin-top: -43px;
+  margin-right: 480px;
+}
+.recomendados1{
+  margin-top: -43px;
+  margin-right: 280px;
+}
+.nosotros1{
+  margin-top: -43px;
+  margin-right: 130px;
+}
+.buscar1{
+  width: 28px;
+  height: 28px;
+  float: right;
+  margin-top: -43px;
+  margin-right: 100px;
+}
+
+.portadapeaky{
+margin-left: 50px;
+}
+.rect1{
+margin-top: -720px;
+}
+
+.textoCentral1{
+margin-top: -420px;
+margin-left: 50px;
+}
+
+.texto{
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+  align-items: center;
+margin-left: 340px;
+position: relative;
+top: 380px;
+color: white;
+font-weight: 2px;
+line-height: 30px;
+}
+.textoLargo2{
+margin-top: 30px;
+}
+.textoLargo3{
+  margin-top: 30px;
+}
+.textoLargo4{
+  margin-top: 30px;
+}
+.textoLargo5{
+  margin-top: 30px;
+}
+
+.calificar1{
+  background-color: rgba(46, 48, 62, 1);
+  font-family: 'Asap', sans-serif;
+  font-size: 25px;
+  margin-top: 500px;
+  color: white;
+margin-left: 340px;
+margin-right: 400px;
+padding-left: 180px;
+padding-top: 47px;
+padding-bottom: 47px;
+}
+.estrellitas{
+margin-top: 20px;
+padding-right: 20px;
+margin-left: -8px;
+
+}
+
+.mas{
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+  color: white;
+margin-top: 85px;
+background-color: rgba(46, 48, 62, 1);
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: center;
+margin-left: -80px;
+}
+.personajes{
+margin-left: 160px;
+margin-top: 50px;
+
+}
+.c1{
+  padding-right: 41px;
+}
+.c2{
+  padding-right: 41px;
+}
+.c3{
+  padding-right: 41px;
+}
+.textosC{
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+  color: white;
+}
+.textC2{
+  margin-left: 428px;
+  margin-top: -20px;
+}
+.textC3{
+  margin-left: 698px;
+  margin-top: -23px;
+}
+.textC1{
+  margin-left: 160px;
+  margin-top: 5px;
+}
+.textC4{
+  margin-left: 970px;
+  margin-top: -23px;
+}
+
+.coments{
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+  color: white;
+margin-top: 85px;
+background-color: rgba(46, 48, 62, 1);
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: center;
+margin-left: -80px;
+}
+
+.escribir{
+  background-color: #2E303E;
+  margin-top: 50px;
+  padding-bottom: 13px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.hombre{
+margin-left: 30px;
+margin-top: 24px;
+}
+.escribirReseña{
+  font-family: 'Asap', sans-serif;
+  color: #D2D2D2;
+  font-size: 20px;
+  margin-left: 109px;
+  margin-top: -35px;
+}
+.publicar{
+  font-family: 'Asap', sans-serif;
+  background-color: #F4D03F;
+  color: black;
+  font-size: 20px;
+  margin-left: 572px;
+  margin-top: 70px;
+  margin-right: 350px;
+  padding-left: 20px;
+ padding-right: 95px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+.comentario11{
+  float: left;
+  background-color: #2E303E;
+  padding-right: 33px;
+padding-bottom: 22px;
+margin-left: 300px;
+margin-top: 50px;
+}
+.ellipse11{
+float: left;
+margin-left: 60px;
+margin-top: 30px;
+
+}
+.federicoyoma11{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20pt;
+ float: left;
+ margin-left: 15px;
+margin-top: 30px;
+}
+.tiempo11{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20pt;
+float: left;
+margin-left: -128px;
+margin-top: 60px;
+}
+.textolargo11{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20pt;
+  margin-left: 100px;
+  margin-top: 110px;
+  /*position: relative;
+  left: 100px;*/
+}
+.calificar11{
+  float: left;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #black;
+  font-size: 16px;
+  line-height: 20pt;
+  top: 40px;
+  left: 63px;
+  background-color: #F4D03F;
+  padding top: 4px;
+  padding-bottom: 4px;
+  padding-left: 18px;
+  padding-right: 18px;
+  margin-left: 57px;
+  margin-top: 46px;
+}
+.estrella11{
+  float: left;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.estrella211{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella311{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella411{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella511{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+
+.comentario112{
+  margin-top: -60px;
+}
+
+
+
+
+
+
+.comentario111{
+  float: left;
+  background-color: #2E303E;
+  padding-right: 53px;
+padding-bottom: 22px;
+margin-left: 300px;
+margin-top: 10px;
+}
+.ellipse111{
+float: left;
+margin-left: 60px;
+margin-top: 30px;
+
+}
+.federicoyoma111{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20pt;
+ float: left;
+ margin-left: 15px;
+margin-top: 30px;
+}
+.tiempo111{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20pt;
+float: left;
+margin-left: -128px;
+margin-top: 60px;
+}
+.textolargo111{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20pt;
+  margin-left: 100px;
+  margin-top: 110px;
+  /*position: relative;
+  left: 100px;*/
+}
+.calificar111{
+  float: left;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #black;
+  font-size: 16px;
+  line-height: 20pt;
+  top: 40px;
+  left: 63px;
+  background-color: #F4D03F;
+  padding top: 4px;
+  padding-bottom: 4px;
+  padding-left: 18px;
+  padding-right: 18px;
+  margin-left: 57px;
+  margin-top: 46px;
+}
+.estrella111{
+  float: left;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.estrella2111{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella3111{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella4111{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella5111{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+
+.comentario1121{
+  margin-top: -60px;
+}
+
+
+
+
+
+.comentario1111{
+  float: left;
+  background-color: #2E303E;
+  padding-right: 60px;
+padding-bottom: 22px;
+margin-left: 300px;
+margin-top: 10px;
+margin-bottom: 50px;
+}
+.ellipse1111{
+float: left;
+margin-left: 60px;
+margin-top: 30px;
+
+}
+.federicoyoma1111{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20pt;
+ float: left;
+ margin-left: 15px;
+margin-top: 30px;
+}
+.tiempo1111{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20pt;
+float: left;
+margin-left: -128px;
+margin-top: 60px;
+}
+.textolargo1111{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20pt;
+  margin-left: 100px;
+  margin-top: 110px;
+  /*position: relative;
+  left: 100px;*/
+}
+.calificar1111{
+  float: left;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #black;
+  font-size: 16px;
+  line-height: 20pt;
+  top: 40px;
+  left: 63px;
+  background-color: #F4D03F;
+  padding top: 4px;
+  padding-bottom: 4px;
+  padding-left: 18px;
+  padding-right: 18px;
+  margin-left: 57px;
+  margin-top: 46px;
+}
+.estrella1111{
+  float: left;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.estrella21111{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella31111{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella41111{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella51111{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+
+.comentario1121{
+  margin-top: -60px;
+}
+
+.Cargar{
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+  color: white;
+  float: left;
+position: relative;
+top: 370px;
+left: -480px;
+background-color: #2E303E;
+padding-left: 63px;
+padding-right:63px;
+padding-top: 10px;
+padding-bottom: 10px;
+}

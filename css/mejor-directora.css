@@ -1,0 +1,52 @@
+.directora{
+    margin-left: 47px;
+}
+.mejor-directora-2021{
+  color: white;
+  margin-top: 80px;
+  margin-left: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+.linea3{
+  color: #F4D03F;
+   width: 370px;
+   margin-left: 0px;
+   margin-top: 10px;
+}
+.mejor-directora-img{
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 24px;
+}
+.texto-nombre{
+  font-size: 32px;
+  color: #F4D03F;
+  margin-top: -50px;
+  margin-left: 12px;
+  font-family: 'Open Sans', sans-serif;
+}
+.fechaimagen{
+  font-size: 15px;
+  color: #F4D03F;
+  margin-top: -430px;
+  margin-left: 20px;
+  font-family: 'Asap', sans-serif;
+  text-shadow: 0px 2px 4px black;
+}
+.texto{
+  float: right;
+  margin-right: 43px;
+  margin-top: -4px;
+}
+.titulo-directora{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: white;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+.parrafo-directora{
+  color: #EEEEEE;
+  font-size: 18px;
+  line-height: 25px;
+  font-family: 'Asap', sans-serif;
+}

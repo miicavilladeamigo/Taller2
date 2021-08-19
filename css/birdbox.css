@@ -1,0 +1,191 @@
+.contenedor-birdbox{
+  float: left;
+  padding-bottom: 84px;
+  position: relative;
+  top: -120px;
+}
+
+.linea-birdbox{
+  color: #F4D03F;
+  width: 705px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+
+.birdbox{
+  margin-left: 27px;
+  margin-top: 27px;
+}
+
+.comentario1{
+  float: left;
+  background-color: #2E303E;
+  padding-right: 38px;
+padding-bottom: 22px;
+}
+.ellipse1{
+float: left;
+margin-left: 60px;
+margin-top: 30px;
+
+}
+.federicoyoma{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20pt;
+ float: left;
+ margin-left: 15px;
+margin-top: 30px;
+}
+.tiempo{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20pt;
+float: left;
+margin-left: -128px;
+margin-top: 60px;
+}
+.textolargo{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20pt;
+  margin-left: 100px;
+  margin-top: 110px;
+  /*position: relative;
+  left: 100px;*/
+}
+.calificar{
+  float: left;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #black;
+  font-size: 16px;
+  line-height: 20pt;
+  top: 40px;
+  left: 63px;
+  background-color: #F4D03F;
+  padding top: 4px;
+  padding-bottom: 4px;
+  padding-left: 18px;
+  padding-right: 18px;
+  margin-left: 57px;
+  margin-top: 46px;
+}
+.estrella1{
+  float: left;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.estrella2{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella3{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella4{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.estrella5{
+  float: left;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+
+.comentario2{
+  background-color: #2E303E;
+  padding-bottom:312px;
+
+
+}
+.OscarAlvarez{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20pt;
+ float: right;
+ margin-right:415px;
+margin-top: 30px;
+}
+
+.tiempo2{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20pt;
+float: right;
+margin-right: 425px;
+margin-top: 5px;
+}
+.textolargo2{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20pt;
+  float: right;
+  margin-right: 60px;
+  margin-top: 20px;
+
+}
+.calificar2{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #black;
+  font-size: 16px;
+  line-height: 20pt;
+  top: 40px;
+  left: 63px;
+  background-color: #F4D03F;
+  padding top: 4px;
+  padding-bottom: 4px;
+  padding-left: 18px;
+  padding-right: 18px;
+  margin-right: 520px;
+  margin-top: 70px;
+}
+.estrellas2{
+  float: right;
+  margin-right: 80px;
+  margin-top: -75px;
+}
+
+.rectangulo1{
+  float: left;
+  margin-top: -360px;
+}
+.rectangulo2{
+ float: right;
+  margin-top: -360px;
+  margin-right: 0px;
+}
+.rectangulo3{
+margin-top: -330px;
+margin-left: 640px;
+}
+
+.fecha10{
+  color: #F4D03F;
+  position: relative;
+  top: -860px;
+  margin-left: 50px;
+  background-color: rgba(0,0,0,0.7);;
+  padding-left: 17px;
+  margin-right: 1153px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

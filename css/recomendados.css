@@ -1,0 +1,107 @@
+.contenedor-recomendados{
+  position: relative;
+  top: -140px;
+}
+
+.lo-ultimo2{
+  margin-top: 490px;
+}
+
+.linea2{
+  color: #F4D03F;
+  width: 270px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+
+.cruella{
+  margin-top: 27px;
+  margin-left: 27px;
+  display: block;
+}
+
+
+
+.a24{
+  float: right;
+  margin-right: 833px;
+  margin-top: -347px;
+}
+.destacado-a24{
+  float: right;
+  margin-right: 940px;
+  margin-top: -114px;
+}
+.text-24{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-right: 880px;
+  margin-top: -52px;
+}
+
+.mucho{
+  float: right;
+  margin-right: 566px;
+  margin-top: -347px;
+}
+.destacado-mucho{
+  float: right;
+  margin-right: 670px;
+  margin-top: -114px;
+}
+.text-m{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-right: 566px;
+  margin-top: -52px;
+}
+
+.control{
+  float: right;
+  margin-right: 299px;
+  margin-top: -347px;
+}
+.destacado-control{
+  float: right;
+  margin-right: 400px;
+  margin-top: -114px;
+}
+.text-control{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-right: 352px;
+  margin-top: -52px;
+}
+
+.note{
+  float: right;
+  margin-right: 32px;
+  margin-top: -347px;
+}
+.destacado-notebook{
+  float: right;
+  margin-right: 130px;
+  margin-top: -114px;
+}
+.text-note{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-right: 75px;
+  margin-top: -52px;
+}

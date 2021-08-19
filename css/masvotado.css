@@ -1,0 +1,84 @@
+.contenedor-lomasvotado{
+  position: relative;
+  top: -110px;
+
+}
+
+.camila{
+  margin-top: 27px;
+  margin-left: 27px;
+}
+.text-camila{
+font-family: 'Asap', sans-serif;
+font-weight: 400;
+color: #fff;
+font-size: 19px;
+line-height: 20pt;
+margin-left: 27px;
+margin-top: 16px;
+}
+
+.scary{
+  float: right;
+  margin-right: 848px; /*42 de distancia*/
+  margin-top: -351px;
+}
+.text-scary{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  float: right;
+  margin-right: 863px;
+  margin-top: -50px;
+}
+
+.imagen1{
+  float: right;
+  margin-right: 583px; /*42 de distancia*/
+  margin-top: -353px;
+}
+.text-niIdea{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  float: right;
+  margin-right: 630px;
+  margin-top: -53px;
+}
+
+.mujer{
+float: left;
+margin-left: 809px;
+margin-top: -355px;
+}
+
+.text-niIdea2{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  float: right;
+  margin-right: 360px;
+  margin-top: -53px;
+}
+
+.justice{
+  float: right;
+  margin-top: -355px;
+  margin-right: 50px;
+}
+.text-justice{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  float: right;
+  margin-right: 92px;
+  margin-top: -53px;
+}

@@ -1,0 +1,71 @@
+.navegacion{
+  font-family: 'Open Sans', sans-serif;
+font-weight: 600;
+font-size: 20px;
+margin-left: 300px;
+margin-top: -40px;
+}
+.navegacion ul{
+  list-style: none;
+}
+.menu > li{
+  position: relative;
+  display: inline-block;
+  padding-right: 24px;
+}
+.menu > li a{
+  display: block;
+  padding: 15px,20px;
+  color: #fff;
+  text-decoration: none;
+}
+.menu li a:hover{
+  color:#F4D03F;
+  transition: all .3s;
+}
+
+/* SUB MENI */
+.submenu{
+  position: absolute;
+  background-color: black;
+  width: 400%;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 1.5s;
+  margin-bottom: 24px;
+  padding-bottom: 30px;
+}
+
+.submenu > li {
+    display: inline-block;
+    padding-right: 8px;
+}
+
+
+.submenu li a{
+  display: block;
+  padding: 15px;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+}
+.menu li:hover .submenu{
+  visibility: visible;
+  opacity: 1;
+}
+.submenu-entrevistas{
+  position: absolute;
+  background-color: black;
+  width: 400%;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 1.5s;
+  margin-bottom: 24px;
+  padding-bottom: 30px;
+}
+.logo{
+  width: 209px;
+height: 69px;
+margin-left: 16px;
+margin-top: 10px;
+}

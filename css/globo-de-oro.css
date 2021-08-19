@@ -1,0 +1,128 @@
+.globo{
+  margin-left: 30px;
+  float: none;
+  margin-top: 80px;
+}
+.linea5{
+  color: #F4D03F;
+  width: 600px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+.sacha{
+  margin-top: 35px;
+  margin-left: 27px;
+}
+.destacado-sacha{
+  margin-left: 27px;
+  margin-top: -40px;
+}
+#destacado-sacha{
+  background-color: #000000;
+color: #F4D03F;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+padding-left: 13px;
+padding-right: 13px;
+padding-top: 1px;
+padding-bottom: 1px;
+}
+.texto-sacha{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 20px;
+}
+.chloe{
+float: right;
+margin-top: -310px;
+margin-right: 833px;
+}
+.destacado-chloe{
+  float: right;
+  margin-right: 900px;
+  margin-top: -70px;
+}
+.texto-chloe{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-right: 955px;
+  margin-top: -20px;
+}
+.anthony{
+  float: right;
+  margin-top: -315px;
+  margin-right: 567px;
+}
+.destacado-anthony{
+  float: right;
+    margin-right: 665px;
+    margin-top: -80px;
+}
+.texto-anthony{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -30px;
+  margin-right: 650px;
+}
+
+.pacino{
+  float: right;
+  margin-top: -315px;
+  margin-right: 301px;
+}
+.destacado-pacino{
+  float: right;
+  margin-right: 400px;
+  margin-top: -80px;
+}
+.texto-pacino{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -30px;
+  margin-right: 440px;
+}
+.david{
+  float: right;
+  margin-top: -315px;
+  margin-right: 32px;
+}
+.destacado-david{
+  float: right;
+margin-right: 110px;
+margin-top: -80px;
+}
+
+.texto-david{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -20px;
+  margin-right: 135px;
+}

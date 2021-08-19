@@ -1,0 +1,395 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+body{
+  background-color: #000204;
+}
+
+.logo2{
+  float: left;
+  width: 150px;
+  margin-left: 47px;
+}
+.menu2{
+background-color: #000204;
+margin-left: 0px;
+color: white;
+padding-bottom: 70px;
+font-family: 'Open Sans', sans-serif;
+font-size: 15px;
+}
+
+.novedades2{
+  float: left;
+  padding-left: 50px;
+}
+.festivales2{
+  float: left;
+  padding-left: 80px;
+  color: #F4D03F;
+}
+.opinion2{
+  float: left;
+  padding-left: 80px;
+
+}
+.entrevistas2{
+  float: left;
+  padding-left: 80px;
+
+}
+.recomendados2{
+  float: left;
+  padding-left: 80px;
+
+}
+.nosotros2{
+  float: left;
+  padding-left: 80px;
+}
+
+.imagenPortada2:before{
+  content: "";
+  width: 100%;
+  height: 90%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: linear-gradient(rgba(255,255,255,0),rgba(0,0,0,0.0));
+}
+.imagenPortada2{
+  margin-left: 47px;
+}
+.tituloPortada{
+  color: white;
+  margin-top: -50px;
+  margin-left: 20px;
+  font-family: 'Asap', sans-serif;
+text-shadow: 0px 2px 6px black;
+}
+
+.fechaPortada{
+  font-size: 15px;
+  color: #F4D03F;
+  margin-top: -450px;
+  margin-left: 20px;
+  font-family: 'Asap', sans-serif;
+  text-shadow: 0px 2px 6px black;
+
+}
+
+
+.TfestivalesDeCine{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.festivalesDeCine{
+  margin-top: 490px;
+  color: white;
+  margin-left: 44px;
+}
+
+.linea2{
+    color: #F4D03F;
+    width: 330px;
+    margin-left: 0px;
+    margin-top: -10px;
+}
+
+.ImagenTodas{
+  margin-top: 27px;
+}
+.TextoTodas{
+  margin-top: -32px;
+  margin-left: 12px;
+  color: white;
+  font-family: 'Asap', sans-serif;
+  text-shadow: 0px 2px 4px black;
+
+}
+.WeAreOne{
+  margin-top: -242px;
+  margin-left: 428px;
+}
+.CineIndie{
+  margin-top: -243px;
+  margin-left: 855px;
+}
+
+.India{
+  margin-top: -242px;
+  margin-left: 428px;
+}
+
+.MarDelPlata{
+  margin-top: -243px;
+  margin-left: 855px;
+}
+
+.MejorPelicula{
+  margin-left: 47px
+}
+.TMejorPelicula{
+color: white;
+margin-top: 80px;
+font-family: 'Open Sans', sans-serif;
+
+}
+.linea3{
+    color: #F4D03F;
+    width: 360px;
+    margin-left: 0px;
+    margin-top: -10px;
+}
+.MejorPelicula1{
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 27px;
+}
+
+.tituloNomadland{
+  font-family: 'Open Sans', sans-serif;
+}
+.textoNomadLand{
+  font-size: 32px;
+  color: #F4D03F;
+  margin-top: -50px;
+  margin-left: 12px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.fechaPortadaNomadLand{
+  font-size: 15px;
+  color: #F4D03F;
+  margin-top: -430px;
+  margin-left: 20px;
+  font-family: 'Asap', sans-serif;
+  text-shadow: 0px 2px 4px black;
+
+}
+.textos{
+  float: right;
+  margin-right: 43px;
+  margin-top: -70px;
+}
+.tituloNomadland{
+  color: white;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+.parrafoNomadland{
+  color: #EEEEEE;
+  font-size: 18px;
+  line-height: 25px;
+  font-family: 'Asap', sans-serif;
+
+}
+.DireccionNomadLand{
+  color: white;
+  font-size: 20px;
+  margin-top: 75px;
+}
+
+.Premios2021{
+  margin-left: 47px;
+  font-family: 'Asap', sans-serif;
+
+}
+.linea4{
+    color: #F4D03F;
+    width: 360px;
+    margin-left: 0px;
+    margin-top: -10px;
+}
+.PremiosCannes2021{
+  color: white;
+  margin-top: 470px;
+}
+
+.Poro{
+color: #F4D03F;
+position: relative;
+top: -305px;
+margin-left: 57px;
+background-color: black;
+margin-right: 1160px;
+padding-left: 10px;
+padding-top: 2px;
+padding-bottom: 2px;
+}
+
+.Melanie{
+  margin-top: -242px;
+  margin-left: 428px;
+}
+
+.Cdorada{
+  color: #F4D03F;
+  position: relative;
+  top: -350px;
+  margin-left: 482px;
+  background-color: black;
+  margin-right: 720px;
+  padding-left: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.Noche{
+  margin-top: -243px;
+  margin-left: 855px;
+}
+
+.Mespecial{
+  color: #F4D03F;
+  position: relative;
+  top: -390px;
+  margin-left:915px;
+  background-color: black;
+  margin-right: 275px;
+  padding-left: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.Ppremio{
+color: #F4D03F;
+position: relative;
+top: -195px;
+margin-left: 57px;
+background-color: black;
+margin-right: 1160px;
+padding-left: 10px;
+padding-top: 2px;
+padding-bottom: 2px;
+}
+
+.Cicada{
+  margin-top: -242px;
+  margin-left: 428px;
+}
+
+
+.Spremio{
+  color: #F4D03F;
+  position: relative;
+  top: -238px;
+  margin-left: 482px;
+  background-color: black;
+  margin-right: 720px;
+  padding-left: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.Prin{
+    margin-top: -243px;
+    margin-left: 855px;
+}
+
+.Tpremio{
+  color: #F4D03F;
+  position: relative;
+  top: -283px;
+  margin-left:915px;
+  background-color: black;
+  margin-right: 295px;
+  padding-left: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.footer1 {
+    font-family: 'Asap', sans-serif;
+  line-height: 20pt;
+  color: white;
+
+  padding: 40px;
+  margin-top: 200px;
+}
+
+.movFooter{
+  margin-top: -300px;
+  background-color: #2E303E;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#tituloFooter {
+  margin-top: -10px;
+  margin-left: 160px;
+font-family: 'Asap', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+
+}
+
+#textoFooter {
+  margin-left: 90px;
+font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 30px;
+
+}
+
+#seguirFooter {
+
+text-align: center;
+  margin-top: -200px;
+font-family: 'Asap', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    border: 1px red;
+}
+
+#iconosFooter {
+  margin-top: 50px;
+  margin-left: 540px;
+}
+#iconosFooter1 {
+  margin-top: 0px;
+  margin-left: 20px;
+margin-top: -20px;
+  padding-right: 20px;
+}
+#iconosFooter2 {
+  padding-right: 20px;
+}
+
+.logos{
+  margin-top: -30px;
+}
+#suscribirFooter {
+
+margin-left: 980px;
+margin-top: -115px;
+  font-family: 'Asap', sans-serif;
+      font-weight: 700;
+      font-size: 30px;
+      border: 1px red;
+}
+
+#emailFooter{
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 10px;
+padding-right: 50px;
+margin-top: 20px;
+float: right;
+margin-right: 100px;
+}
+
+
+#botonFooter {
+margin-left: 1050px;
+margin-top: -200px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 15px;
+padding-right: 15px;
+margin-top: 25px;
+position: relative;
+right: 35px;
+}

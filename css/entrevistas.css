@@ -1,0 +1,126 @@
+.contenedor-entrevistas{
+  position: relative;
+  top: -100px;
+
+}
+
+.linea6{
+  color: #F4D03F;
+  width: 210px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+.jupiter{
+margin-top: 27px;
+margin-left: 27px;
+}
+.texto-jupiter{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-right: 815px;
+  margin-top: 16px;
+}
+
+.cine{
+float: right;
+margin-top: -325px;
+margin-right: 27px;
+}
+.texto-cine{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+margin-top: -25px;
+margin-right: 93px;
+}
+
+.zack{
+  float: left;
+  margin-left: 30px;
+  margin-top: 41px;
+}
+.texto-zack{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-right: 955px;
+  margin-top: 16px;
+}
+
+.astro{
+  float: right;
+  margin-right: 27px;
+  margin-top: -322px;
+}
+.texto-astro{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-top: -24px;
+  margin-right: 140px;
+}
+
+.fecha6{
+  color: #F4D03F;
+  position: relative;
+  float: left;
+  margin-left: 47px;
+  top: -670px;
+  background-color: rgba(0,0,0,0.6);;
+  padding-left: 10px;
+  margin-right: 1100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.fecha7{
+  color: #F4D03F;
+  position: relative;
+  top: -315px;
+  margin-left: 745px;
+  background-color: rgba(0,0,0,0.5);;
+  padding-left: 17px;
+  margin-right:470px;
+  padding-top: 5px;
+  margin-top: 50px;
+  padding-bottom: 5px;
+}
+
+.fecha8{
+  color: #F4D03F;
+  position: relative;
+  float: left;
+  margin-left: 47px;
+  top: -330px;
+  background-color: rgba(0,0,0,0.6);;
+  padding-left: 10px;
+  margin-right: 1100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.fecha9{
+  color: #F4D03F;
+  position: relative;
+  top: -30px;
+  margin-left: 745px;
+  background-color: rgba(0,0,0,0.5);;
+  padding-left: 17px;
+  margin-right:470px;
+  padding-top: 5px;
+  margin-top: 50px;
+  padding-bottom: 5px;
+}

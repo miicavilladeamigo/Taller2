@@ -1,0 +1,112 @@
+.linea5{
+  color: #F4D03F;
+  width: 220px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+
+.muchas2{
+  margin-top: 27px;
+  margin-left: 27px;
+}
+.text-muchas2{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+}
+
+.series{
+  float: right;
+  margin-top: -351px;
+  margin-right: 833px;
+}
+.destacado-series{
+  float: right;
+  margin-right: 940px;
+margin-top: -118px;
+}
+.text-series{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-right: 880px;
+  margin-top: -52px;
+}
+
+.anya{
+  float: right;
+  margin-top: -351px;
+  margin-right: 567px;
+}
+.destacado-anya{
+  float: right;
+  margin-right: 670px;
+margin-top: -118px;
+}
+.text-anya{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -52px;
+  margin-right: 581px;
+}
+
+.stranger{
+  float: right;
+  margin-top: -351px;
+  margin-right: 301px;
+}
+.destacado-stranger{
+  float: right;
+  margin-right: 400px;
+margin-top: -118px;
+}
+.text-stranger{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -52px;
+  margin-right: 334px;
+}
+
+.friends{
+  float: right;
+  margin-top: -351px;
+  margin-right: 32px;
+}
+.destacado-friends{
+  float: right;
+  margin-right: 130px;
+margin-top: -118px;
+}
+.text-friends{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+  float: right;
+  margin-top: -52px;
+  margin-right: 60px;
+}
